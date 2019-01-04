@@ -1,6 +1,6 @@
 # Mbed OS Integration Test example
 
-This is an example application that contains simple integration tests that can be ran with Greentea. It also contains a host runner example that runs on the computer, and can be used to communicate back and forth from the device.
+This is an example application that contains simple integration tests that can be ran with Greentea. It also contains a host runner example that runs on the computer, and can be used to communicate back and forth from the device. More information can be found in the [Testing tools](https://os.mbed.com/docs/latest/tools/testing.html) section in the Mbed OS documentation.
 
 [Here's a video](https://www.youtube.com/watch?v=SGHJiI7BUYM).
 
