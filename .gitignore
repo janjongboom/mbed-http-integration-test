@@ -1,0 +1,6 @@
+.mbed
+BUILD/
+*.lib
+mbed-http/
+mbed-os/
+*.pyc
