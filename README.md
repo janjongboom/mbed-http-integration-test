@@ -16,13 +16,18 @@ There are two tests included:
 1. Clone this repository via Mbed CLI:
 
     ```
-    $ mbed import https://github.com/janjongboom/mbed-http-integration-test
+    $ mbed import https://os.mbed.com/teams/sandbox/code/mbed-http-integration-test/
     ```
 
-1. Set your target and compiler:
+1. Set your target:
 
     ```
-    $ mbed target K64F
+    $ mbed target auto
+    ```
+
+1. Set your compiler toolchain:
+
+    ```
     $ mbed toolchain GCC_ARM
     ```
 
